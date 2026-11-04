@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧪 UVM Verification Environment — YAPP Router (Qualcomm Chip Verification Bootcamp)
+### 🧪 [UVM Verification Environment — YAPP Router](https://github.com/YaffiAdler/Yapp-Router-UVM) - Qualcomm Chip Verification Bootcamp
 * Verification environment for a multi-channel packet router, written in SystemVerilog / UVM
 * Agents with driver, monitor and sequencer, plus a scoreboard that checks the router's output against expected results
 * Constrained-random stimulus, functional coverage and assertions
